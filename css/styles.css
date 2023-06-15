@@ -129,7 +129,7 @@ img {
 .hero {
         max-width: 1440px;
         background-color: var(--title-color);
-        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ 1.jpg);
+        background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/background-hero.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -226,7 +226,7 @@ img {
         text-decoration: none;
 }
 
-/** ---------PORTFOLIO MAIN------- */
+/** ---------PORTFOLIO PICTURE------- */
 .services-list {
         padding-bottom: 120px;
         display: flex;
